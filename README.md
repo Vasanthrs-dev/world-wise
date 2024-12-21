@@ -14,7 +14,7 @@ Built a React app where users can map and log their workouts on an interactive m
 - **React**: Frontend framework for building the UI.
 - **Leaflet**: Library for interactive maps.
 - **React Router**: Navigation and routing.
-- **Custom Hooks + Reducer**: Managing local state.
+- **Context Api + Reducer**: Managing local state.
 
 ## Screenshots
 
