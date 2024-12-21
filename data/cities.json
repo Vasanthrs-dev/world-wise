@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "cc60",
+      "cityName": "Navalcarnero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-15T05:15:46.914Z",
+      "notes": "Test",
+      "position": {
+        "lat": "40.27769219887392",
+        "lng": "-3.9787673950195317"
+      }
+    },
+    {
+      "id": "ecb5",
+      "cityName": "Toledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-15T08:29:23.831Z",
+      "notes": "Test",
+      "position": {
+        "lat": "39.89393354266699",
+        "lng": "-3.9015197753906254"
+      }
+    },
+    {
+      "id": "c993",
+      "cityName": "Navarrevisca",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-20T08:52:53.263Z",
+      "notes": "",
+      "position": {
+        "lat": "40.36328834091583",
+        "lng": "-4.833984375000001"
+      }
+    }
+  ]
+}
